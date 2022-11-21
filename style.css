@@ -36,3 +36,42 @@ body {
 
 }
 
+h1{
+
+    font-size:45px;
+
+    font-style:itaclic;
+
+    color:lightgreen;
+
+    text-align:center;
+
+}
+
+a{
+
+    font-style:italic;
+
+    color:blue;
+
+}
+
+h3{
+
+    text-align:center;
+
+}
+
+img{
+
+    width:1000px;
+
+    height:1000px;
+
+}
+
+body {
+
+    background:black;
+
+}
