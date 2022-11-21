@@ -42,7 +42,47 @@ h1{
 
     font-style:itaclic;
 
+    color:lightgreen;h1{
+
+    font-size:45px;
+
+    font-style:itaclic;
+
     color:lightgreen;
+
+    text-align:center;
+
+}
+
+a{
+
+    font-style:italic;
+
+    color:blue;
+
+}
+
+h3{
+
+    text-align:center;
+
+}
+
+img{
+
+    img-align:center;
+
+    width:1000px;
+
+    height:1000px;
+
+}
+
+body {
+
+    background:black;
+
+}
 
     text-align:center;
 
